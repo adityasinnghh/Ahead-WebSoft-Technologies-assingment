@@ -54,7 +54,7 @@ The application implements a **custom navigation drawer** that dynamically loads
 **Endpoint**
 
 ```
-https://demo.socialnetworking.solutions/sesapi/navigation?restApi=Sesapi&sesapi_platform=1&auth_token=B179086bb56c32731633335762
+(CompanyProvided)
 ```
 
 **Parameters**
