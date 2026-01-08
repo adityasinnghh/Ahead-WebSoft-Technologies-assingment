@@ -53,9 +53,9 @@ The application implements a **custom navigation drawer** that dynamically loads
 
 **Endpoint**
 
-```
+
 (CompanyProvided)
-```
+
 
 **Parameters**
 
