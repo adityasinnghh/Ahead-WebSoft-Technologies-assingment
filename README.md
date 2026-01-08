@@ -102,7 +102,7 @@ git clone <your-repo-url>
 
 ## 📸 Screenshots
 
-> Screenshots resized for better GitHub readability
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a0750320-967f-4d80-a420-70f313fda48a" width="220"/>
